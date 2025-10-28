@@ -80,13 +80,15 @@ organizers or through email or the matrix channel, and put your name up at
 https://github.com/modern-email/FOSDEM-26/wiki/FOSDEM-2026-Hackathon-and-Dinner
 if you're interested and if you have ideas/proposals.
 
+We need to know who'll attend by January 25.
+
 ### Friends-of-Email Dinner
 
 Following last year's good practice, we'd like to reserve a table for an
-informal "friends of email" dinner/drinks session either on Satuday evening,
+informal "friends of email" dinner/drinks session, probably on Saturday evening,
 January 31.  Please email one of the organizers or join the matrix channel if
-you'd like to join, so we can guess the group size (we were some 20+ people
-last time! Venue proposals welcome as well.
+you'd like to join, so we can guess the group size (last year we reserved for
+15 and 40+ showed up). Venue proposals welcome as well.
 
 ## Recordings
 
@@ -109,6 +111,6 @@ Contact the organizers:
 * Damian Poddebniak, poddebniak@mailbox.org
 * Hans-Jörg Happel, happel@audriga.com
 * Mechiel Lukkien, mechiel@ueber.net
-* ...
+* Arnt Gulbrandsen, arnt@gulbrandsen.priv.no
 
 We are looking forward to a great day at FOSDEM with you!
