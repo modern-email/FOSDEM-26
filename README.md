@@ -111,6 +111,7 @@ Contact the organizers:
 * Damian Poddebniak, poddebniak@mailbox.org
 * Hans-Jörg Happel, happel@audriga.com
 * Mechiel Lukkien, mechiel@ueber.net
+* Mauro De Gennaro, hello@stalw.art
 * Arnt Gulbrandsen, arnt@gulbrandsen.priv.no
 
 We are looking forward to a great day at FOSDEM with you!
