@@ -110,11 +110,12 @@ https://matrix.to/#/#modern-email:matrix.org
 
 Contact the organizers:
 
-* Benoit Tellier, btellier@linagora.com
-* Damian Poddebniak, poddebniak@mailbox.org
-* Hans-Jörg Happel, happel@audriga.com
 * Mechiel Lukkien, mechiel@ueber.net
-* Mauro De Gennaro, hello@stalw.art
+* Hans-Jörg Happel, happel@audriga.com
 * Arnt Gulbrandsen, arnt@gulbrandsen.priv.no
+* Damian Poddebniak, poddebniak@mailbox.org
+* Benoit Tellier, btellier@linagora.com
+* Mauro De Gennaro, hello@stalw.art
+* Ben Bucksch info@beonex.com
 
 We are looking forward to a great day at FOSDEM with you!
