@@ -4,19 +4,20 @@ with new standards/techniques/programming languages.
 
 ## Call for Participation
 
-The "**Modern Email**" developer room at FOSDEM seeks speakers, volunteers, and
-participants! We want to get together as email developers/users, learn about
-each other's projects, have technical discussions, exchange
-implementation/operational experiences, and share plans and visions for the
-future of email.
+We'll have a "**Modern Email**" devroom again at FOSDEM 2026, and we're looking
+for speakers!
 
-The devroom will be **held on Saturday 31 January 2026** (full day), with primarily
-talks on the schedule. The **submission deadline for talks is Wednesday, 10 December, 2025**.
+We want to get together as email developers/users, learn about each other's
+projects, have technical discussions, exchange implementation/operational
+experiences, and share plans and visions for the future of email.
 
-* **Speaker**: As a speaker, you're invited to present your work in the developer room.
-* **Volunteer**: As a volunteer, you would be helping us out during the sessions.
-* **Participant**: As a participant, whether introverted or extroverted, you
-  are excellent to everyone and make the day!
+FOSDEM is an annual conference about free and open source software. It takes
+place at the ULB Solbosch Campus, Brussels, Belgium on 31 Jan/1 Feb 2026. See
+https://fosdem.org/2026/.
+
+The devroom will be **held on Saturday 31 January 2026** (full day).
+The **submission deadline for talks is Wednesday, 10 December, 2025** (end of
+day).
 
 **Please distribute this CfP as widely as possible to interested parties!**
 
@@ -35,9 +36,6 @@ Some suggestions for talks:
 * Experiences with deliverability, email operations, anti-spam, hosting, ...
 * Related technologies such as calendaring/PIM.
 * Visionary talks
-    * Where should email be in 10 years?
-    * Can we add end-to-end encryption (to the masses) through, e.g., MLS?
-    * Can we provide simple solutions for on-prem (private) hosting?
 * ...
 
 ## Submission
@@ -47,9 +45,8 @@ We ask for a short talk abstract (+ proposed duration) and a speaker biography
 appreciated, e.g., a collection of links to your work, talks, projects, blog
 posts, etc.
 
-Submissions **must** be made through Pretalx
-(https://pretalx.fosdem.org/fosdem-2026/cfp) no later than Wednesday, 10
-December, 2025.
+Submissions must be made through Pretalx (https://fosdem.org/submit) no later
+than Wednesday, 10 December, 2025.
 
 The suggested duration for a talk is **25 minutes** (20 minutes presentation +
 5 minutes Q&A). However, we *explicitly* invite you to propose the best
@@ -64,11 +61,11 @@ your talk.
 
 ## Important dates
 
-* 30 Oct: Modern Email DevRoom open for submissions
-* 10 Dec: Modern Email DevRoom submission deadline
+* 30 Oct: Modern Email devroom open for talk submissions
+* 10 Dec: Modern Email devroom submission deadline
 * 15 Dec: Announcement of final schedule
-* 30 Jan: Modern Email Hackathon
-* 31 Jan: FOSDEM - "Modern Email" DevRoom day!
+* 30 Jan: pre-FOSDEM Modern Email Hackathon
+* 31 Jan: FOSDEM - "Modern Email" devroom day!
 * 31 Jan: Modern Email dinner in evening
 
 ## Side events
@@ -77,8 +74,8 @@ your talk.
 
 We will organize an informal **pre-FOSDEM email hackathon on Friday before
 FOSDEM** (30 January). Please contact one of the organizers through email or
-the matrix channel, and put your name up at
-https://github.com/modern-email/FOSDEM-26/wiki/FOSDEM-2026-Hackathon-and-Dinner
+the matrix channel and/or put your name up at
+https://github.com/modern-email/FOSDEM-26/wiki/Hackathon-and-Dinner
 if you're interested in joining.
 
 We need to know who'll attend by January 25 due to building access registration
@@ -86,13 +83,12 @@ policies.
 
 ### Friends-of-Email Dinner
 
-Following last year's good practice, we'd like to reserve a table for an
-informal "friends of email" dinner/drinks session, on Saturday evening, January
-31 after the devroom day.  Put your name up at
-https://github.com/modern-email/FOSDEM-26/wiki/FOSDEM-2026-Hackathon-and-Dinner
-and optionally contact one of the organizers so we can guess the group size
-(last year we reserved for 15 and 40+ showed up). Venue proposals welcome as
-well.
+Following last year's good practice, we will reserve a table for an informal
+"friends of email" dinner/drinks session, on Saturday evening, January 31, at
+the end of the devroom day.  Put your name up at
+https://github.com/modern-email/FOSDEM-26/wiki/Hackathon-and-Dinner
+and/or contact one of the organizers so we can guess the group size (last year
+we reserved for 15 and 40+ showed up). Venue proposals welcome as well.
 
 ## Recordings
 
